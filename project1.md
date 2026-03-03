@@ -26,16 +26,25 @@ This program will generate three output files: average.txt, winner.txt, and sort
 
 ## UI Design
 
-This is a command-line script without an interactive user interface. The user runs the script in a terminal, and it processes the input file silently, producing output files. Users can view the results by opening or using the Linux command "cat" to view the output files. The program execution starts in the terminal (see Fig 1). After running, the example output can be viewed in the generated files, such as the sorted scores (see Fig 2). If an error occurs, such as a missing input file, Perl will display an error message in the terminal (see Fig 3).
+This is a command-line script without an interactive user interface. The user runs the script in a terminal, and it processes the input file silently, producing output files. Users can view the results by opening or using the Linux command "cat" to view the output files. The program execution starts in the terminal (see Fig 1). After running, the example output can be viewed in the generated files (see Fig 2), such as the average score (see Fig 3), sorted scores (see Fig 4), and the winner (see Fig 5). If an error occurs, such as a missing input file, Perl will display an error message in the terminal (see Fig 6).
 
 ![screenshot](images/Lab04/Figure1.PNG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Lab04/Figure2.PNG)  
+Fig 2. The generated files.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Lab04/Figure3.PNG)  
+Fig 3. Average Score.
+
+![screenshot](images/Lab04/Figure4.PNG)  
+Fig 4. Sorted Scores.
+
+![screenshot](images/Lab04/Figure5.PNG)  
+Fig 5. Winning Score.
+
+![screenshot](images/Lab04/Figure6.PNG)  
+Fig 6. Average Score.
 
 ## 3. Additional Considerations
 
