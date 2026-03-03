@@ -9,22 +9,12 @@ Programming Projects
 ---
 ### [Lab 04 | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/Lab04/Figure1-trimmed.png)
+<img src="images/Lab04/Figure1-trimmed.png" alt="Project 1 Thumbnail Name" width="300"/>
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 3 Title | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
