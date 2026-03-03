@@ -44,12 +44,13 @@ Fig 4. Sorted Scores.
 Fig 5. Winning Score.
 
 ![screenshot](images/Lab04/Figure6.PNG)  
-Fig 6. Average Score.
+Fig 6. Error if score file is missing.
+
+![screenshot](images/Lab04/Figure7.PNG)  
+Fig 7. scores.txt
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please ensure the input file 'scores.txt' is properly formatted (see Fig 7), with one player per line and numeric scores. The script uses strict and warnings for better error handling. For deployment, it can be run on any system with Perl installed.
 
 [Back to Portfolio](./)
