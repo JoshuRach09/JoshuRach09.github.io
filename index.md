@@ -31,22 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Human Elements of Cybersecurity](/pdf/RachelJoshua-Human-Elements-of-Cybersecurity.pdf)
 
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
----
+-   **Class:CSCI 405-Principles of Cybersecurity**  
+-   **Grade:87**
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
