@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:jrachel@csuniv?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [Human Elements of Cybersecurity](/pdf/RachelJoshua-Human-Elements-of-Cybersecurity.pdf)
 
--   **Class:CSCI 405-Principles of Cybersecurity**  
+-   **Class: CSCI 405-Principles of Cybersecurity**  
 -   **Grade:87**
 
 
