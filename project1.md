@@ -15,7 +15,6 @@ This Perl script processes bowling scores from a text file named 'scores.txt', w
 
 ## How to run the program
 
-How to compile (if applicable) and run the project.
 The perl script does not require compilation. To successfully run the program, please ensure that 'scores.txt' is present in the same directory and is formatted "name score" on each line. To proceed with executing the program, you will need to do the following.
 
 ```bash
@@ -27,9 +26,7 @@ This program will generate three output files: average.txt, winner.txt, and sort
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This is a command-line script without an interactive user interface. The user runs the script in a terminal, and it processes the input file silently, producing output files. Users can view the results by opening or using the Linux command "cat" to view the output files. The program execution starts in the terminal (see Fig 1). After running, the example output can be viewed in the generated files, such as the sorted scores (see Fig 2). If an error occurs, such as a missing input file, Perl will display an error message in the terminal (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
