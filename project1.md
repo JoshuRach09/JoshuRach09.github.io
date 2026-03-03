@@ -11,15 +11,16 @@ Lab 04
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Perl script processes bowling scores from a text file named 'scores.txt', where each line contains a player's name followed by their score. It calculates the average score, identifies the player with the highest score, and sorts the players by their scores in ascending order. The results are written to three output files: 'average.txt' for the average score, 'winner.txt' for the winner's name and score, and 'sorted.txt' for the sorted list of players and scores.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
+The perl script does not require compilation
 
 ```bash
 cd ./project
-python setup.py
+perl bowling.pl
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
