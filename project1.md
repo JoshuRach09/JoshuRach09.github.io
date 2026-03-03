@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Lab 04
+Lab 04 - Bowling Scores
 ===============
 
 -   **Class: CSCI 301** 
