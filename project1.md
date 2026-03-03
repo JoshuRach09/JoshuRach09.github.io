@@ -3,10 +3,10 @@
 Lab 04
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class: CSCI 301** 
+-   **Grade: 93** 
+-   **Language(s): Perl** 
+-   **Source Code Repository:** [JoshuRach09/Lab 04-Bowling Scores](lab04/lab04.pl)  
     (Please [email me](mailto:jrachel@csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
