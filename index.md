@@ -12,7 +12,7 @@ Programming Projects
 <img src="images/Lab04/Figure1-trimmed.png" alt="Project 1 Thumbnail Name" width="500"/>
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Airdrop | CSCI 332](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
