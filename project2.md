@@ -11,24 +11,32 @@ CSCI 332 - Airdrop
 
 ## Project description
 
-This C++ project implements a reliable file-transfer application called “Air Drop” using UDP sockets in Ubuntu Linux. The client reads a binary file specified by the user, sends the filename first, then transmits the file in 1000-byte packets prefixed with a “Data” header. After each packet, the client waits for an acknowledgment from the server. The server receives the filename, creates a new binary output file, reconstructs the the file from the incoming packets, and sends back either a "Data" or a "Done" acknowledgement. The program will send a final “Done” packet to signal the end of transfer. This creates a custom stop-and-wait protocol that guarantees reliable delivery over UDP.
+This C++ project implements a reliable file-transfer application called “Air Drop” using UDP sockets in Ubuntu Linux. The client reads a binary file specified by the user, sends the filename first, then transmits the file in 1000-byte packets prefixed with a “Data” header. After each packet, the client waits for an acknowledgment from the server. The server receives the filename, creates a new binary output file, reconstructs the file from the incoming packets, and sends back either a "Data" or a "Done" acknowledgement. The program will send a final “Done” packet to signal the end of transfer. This creates a custom stop-and-wait protocol that guarantees reliable delivery over UDP.
 
 ## How to run the program
 
-The programs must be compiled before use. Ensure the source files (client.cpp and server.cpp) are in the working directory. Place the file you wish to transfer into the client folder. Right click the "udpclient" and "udpserver" cpp files and open an integrated terminal for each.
-You will run the code as follows:
+The programs must be compiled before use. Ensure the source files (client.cpp and server.cpp) are in the working directory. Place the file you wish to transfer into the client folder. Right-click the "udpclient" and "udpserver" cpp files and open an integrated terminal for each. Be sure to run the compilation code for both the server and the client, and then run the client starter command first, then the client.
 
-Server
+server.cpp
 ```bash
-cd ./lab04
-perl lab04.pl
+g++ udpserver.cpp -o udpserver
+./udpserver
 ```
 
-This program will generate three output files: average.txt, winner.txt, and sorted.txt
+The server will ask the user to enter the port number to use for the project. For simplicity's sake, use 12345.
+
+client.cpp
+```bash
+g++ udpclient.cpp -o udpclient
+./udpclient
+```
+
+The client will ask for the server's IP address, which will be the VM/Linux machine's IP(V4) address. Next, it will ask for the port number, and the user will enter the one used for the server. Finally, it will ask the user for the file name and check whether it is valid; if not, it will tell them it could not open it and prompt them again.
+
 
 ## UI Design
 
-This is a command-line script without an interactive user interface. The user runs the script in a terminal, and it processes the input file silently, producing output files. Users can view the results by opening or using the Linux command "cat" to view the output files. The program execution starts in the terminal (see Fig 1). After running, the example output can be viewed in the generated files (see Fig 2), such as the average score (see Fig 3), sorted scores (see Fig 4), and the winner (see Fig 5). If an error occurs, such as a missing input file, Perl will display an error message in the terminal (see Fig 6).
+This is a command-line application consisting of two separate programs (client and server) that must run in two terminal windows. 
 
 ![screenshot](images/Lab04/Figure1.PNG)  
 Fig 1. The launch screen
