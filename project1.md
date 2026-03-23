@@ -6,7 +6,7 @@ Lab 04 - Bowling Scores
 -   **Class: CSCI 301** 
 -   **Grade: 93** 
 -   **Language(s): Perl** 
--   **Source Code Repository:** ([lab04](https://github.com/JoshuRach09/CSCI-301-code-repository/tree/master/lab04))  
+-   **Source Code Repository:** ([lab04](https://github.com/JoshuRach09/CSCI-331-Lab04-Bowling-Scores))  
     (Please [email me](mailto:jrachel@csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
