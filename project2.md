@@ -6,7 +6,7 @@ CSCI 332 - Airdrop
 -   **Class: CSCI 332** 
 -   **Grade: 100** 
 -   **Language(s): C++, Binary** 
--   **Source Code Repository:** ([lab04](https://github.com/JoshuRach09/CSCI-301-code-repository/tree/master/lab04))  
+-   **Source Code Repository:** ([Airdrop](https://github.com/JoshuRach09/csci-332-Airdrop))  
     (Please [email me](mailto:jrachel@csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
