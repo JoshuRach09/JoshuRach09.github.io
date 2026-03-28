@@ -38,7 +38,7 @@ The client will ask for the server's IP address, which will be the VM/Linux mach
 
 This is a command-line application consisting of two separate programs (client and server) that must run in two terminal windows. 
 
-![screenshot](images/Airdrop/FinalProjectDemo.png)  
+![screenshot](images/Airdrop/Final-Project-Demo.png)  
 Fig 1. The launch screen
 
 ![screenshot](images/Lab04/Figure2.PNG)  
