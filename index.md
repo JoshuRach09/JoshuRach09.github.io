@@ -16,7 +16,7 @@ For access to my private project repositories, please [email me](mailto:jrachel@
 ### Airdrop | CSCI 332
 [View Project](project2)
 
-![Airdrop Project Thumbnail](images/dummy_thumbnail.jpg)
+![Airdrop Project Thumbnail](images/Airdrop/Final-Project-Demo.png)
 
 ---
 
