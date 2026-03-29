@@ -60,6 +60,9 @@ Fig 6. Error if score file is missing.
 Fig 7. scores.txt
 
 ## Demo Video
+
+Below, you can find a demo video I did for the class that shows the program in action.
+
 [Demo for Airdrop](https://youtu.be/vvuQGXbCeOc)
 
 ## 3. Additional Considerations
