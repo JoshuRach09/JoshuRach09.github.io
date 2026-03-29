@@ -1,6 +1,6 @@
 # Portfolio
 
-Skills: Penetration Testing, Information Technology Support, Help Desk Specialist, Web Development, Computer Forensics
+Skills: Penetration Testing, Technology Support Specialist, Software Development, Computer Forensics
 ---
 ## Programming Projects
 
