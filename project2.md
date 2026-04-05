@@ -39,24 +39,24 @@ The client will ask for the server's IP address, which will be the VM/Linux mach
 This is a command-line application consisting of two separate programs (client and server) that must run in two terminal windows. 
 
 ![screenshot](images/Airdrop/Final-Project-Demo.png)  
-Fig 1. The launch screen
+Fig 1. The final result.
 
-![screenshot](images/Lab04/Figure2.PNG)  
-Fig 2. The generated files.
+![screenshot](images/Airdrop/Ask-for-ServerIP.png)  
+Fig 2. The program will ask for the server IP address.
 
-![screenshot](images/Lab04/Figure3.PNG)  
-Fig 3. Average Score.
+![screenshot](images/Airdrop/Ask-for-Serverport.png)  
+Fig 3. The program will ask for the port number.
 
-![screenshot](images/Lab04/Figure4.PNG)  
-Fig 4. Sorted Scores.
+![screenshot](images/Airdrop/ServerIPAdd.png)  
+Fig 4. This is how you find the server's IP address(your VM IP).
 
-![screenshot](images/Lab04/Figure5.PNG)  
-Fig 5. Winning Score.
+![screenshot](images/Airdrop/EnterServerIPAdd.png)  
+Fig 5. Enter the IP address of your VM.
 
-![screenshot](images/Lab04/Figure6.PNG)  
+![screenshot](images/Airdrop/EnterServerinfoClientSide.png)  
 Fig 6. Error if score file is missing.
 
-![screenshot](images/Lab04/Figure7.PNG)  
+![screenshot](images/Airdrop/Final-Product.png)  
 Fig 7. scores.txt
 
 ## Demo Video
