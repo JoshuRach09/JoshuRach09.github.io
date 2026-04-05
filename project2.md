@@ -57,7 +57,7 @@ Fig 5. Enter the IP address of your VM.
 Fig 6. Error if score file is missing.
 
 ![screenshot](images/Airdrop/Final-Product.png)  
-Fig 7. scores.txt
+Fig 7. Received file on the server (identical to original).
 
 ## Demo Video
 
@@ -67,6 +67,6 @@ Below, you can find a demo video I did for the class that shows the program in a
 
 ## 3. Additional Considerations
 
-Please ensure the input file 'scores.txt' is properly formatted (see Fig 7), with one player per line and numeric scores. The script uses strict and warnings for better error handling. For deployment, it can be run on any system with Perl installed. You can run the program in VS code, ensure that it can run perl.
+The source code files contain the relevant information, such as the Student Name, Program Name, Creation Date, Last Modified Date, CSCI Course, Grade Received, and are thoroughly commented throughout the program. The code itself uses binary Input/Output (std::ios::binary), proper UDP socket handling, and strict packet formatting (“Data” / “Done”). The GitHub repo contains the source code, and the executables are provided with the release. This program was created to run on any Linux machine that has g++ installed; however, I coded and demonstrated this project in Ubuntu Linux. The code can be run and modified using VS Code. **Ensure the client and server are tested on the same machine, or across machines with the correct IP address format (IPV4 in this case) and open ports.** 
 
 [Back to Portfolio](./)
