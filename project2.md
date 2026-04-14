@@ -54,7 +54,7 @@ Fig 4. This is how you find the server's IP address(your VM IP).
 Fig 5. Enter the IP address of your VM.
 
 ![screenshot](images/Airdrop/EnterServerinfoClientSide.png)  
-Fig 6. Error if score file is missing.
+Fig 6. Enter the name of the file to be sent to the server.
 
 ![screenshot](images/Airdrop/Final-Product.png)  
 Fig 7. Received file on the server (identical to original).
