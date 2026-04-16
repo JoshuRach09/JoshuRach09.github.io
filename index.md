@@ -28,6 +28,18 @@ For access to my private project repositories, please [email me](mailto:jrachel@
 [Download Paper](/pdf/RachelJoshua-Human-Elements-of-Cybersecurity.pdf)
 
 - **Class:** CSCI 405 - Principles of Cybersecurity  
-- **Grade:** 87  
+- **Grade:** 87
+
+### The Morris Worm: Case Study
+[Download Paper](/pdf/RachelJoshua-Morris-Worm-White-Paper.pdf)
+
+- **Class:** CSCI 405 - Principles of Cybersecurity  
+- **Grade:** 93
+
+### Implementaion of AI into Cybersecurity
+[Download Paper](/pdf/RachelJoshua-AI-in-Cybersecurity.pdf)
+
+- **Class:** CSCI 301 - Survey Of Scripting Languages  
+- **Grade:** 75  
 
 _Page template forked from [CSU-CS](https://github.com/csu-cs/csci-portfolio)_
