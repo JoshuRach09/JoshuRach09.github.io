@@ -42,4 +42,18 @@ For access to my private project repositories, please [email me](mailto:jrachel@
 - **Class:** CSCI 301 - Survey Of Scripting Languages  
 - **Grade:** 75  
 
+## Presentations
+
+### Breach of Veterans' Affairs
+[Watch the Presentation](https://youtu.be/c4V_w23tGOU)
+
+- **Class:** CSCI 405 - Cybersecurity Disciplines and Skills  
+- **Grade:** 100
+
+### Social Engineering in Cybersecurity
+[Watch the Presentation](https://youtu.be/RNq9Y05Ypt8)
+
+- **Class:** CSCI 405 - Cybersecurity Disciplines and Skills  
+- **Grade:** 100  
+
 _Page template forked from [CSU-CS](https://github.com/csu-cs/csci-portfolio)_
